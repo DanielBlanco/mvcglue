@@ -1,4 +1,4 @@
-MVCGlue v0.3 - PHP Framework by Daniel Blanco
+MVCGlue v0.3
 =============================================
 
 Just a hobby project I started in 2011. The idea was to know
